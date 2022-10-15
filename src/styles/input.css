@@ -1,0 +1,11 @@
+.input-default {
+    background-color: var(--grey-1);
+    border-radius: 8px;
+    border: 2px solid var(--grey-1);
+    padding: 13px 16px;
+}
+
+.input-default:focus {
+    background-color: white;
+    border-color: var(--grey-4);
+}
